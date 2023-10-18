@@ -1,7 +1,7 @@
 # LibScanner
 
 - LibScanner is an automatic tool for Android library detection.
-- Upload your apk file and LibRadar can detect third-party libraries in Android apps accurately and instantly，even after code shrinking(dead code removal).
+- Upload your apk file and LibScanner can detect third-party libraries in Android apps accurately and instantly，even after code shrinking(dead code removal).
 
 ## Introduction
 This is a tool designed to detect third-party libraries in Android applications, even after code shrinking. It helps developers quickly identify the third-party libraries used in their Android projects, along with their version information, licenses, and other relevant details. With this tool, you can better manage and maintain your Android projects.
